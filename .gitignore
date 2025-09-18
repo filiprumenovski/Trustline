@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/*.csv
+outputs/*.json
+outputs/*.pkl
+venv/
